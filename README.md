@@ -1,3 +1,2 @@
 # cybersecurity portfolio
-Cybersecurity Portfolio - 
 I am an adaptable and detail-oriented cybersecurity professional with strong communication and problem-solving skills, committed to protecting both organizations and individuals from evolving cyber threats. Guided by my core values of integrity and a genuine desire to safeguard sensitive information, I am passionate about staying ahead of emerging risks and continuously expanding my technical expertise. By leveraging my strengths and dedication, I aim to help organizations achieve their security objectives, maintain trust, and ensure the resilience of their digital environments in an ever-changing landscape.
